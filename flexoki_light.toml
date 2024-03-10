@@ -69,6 +69,7 @@
 "markup.link.text" = "ye"
 "markup.link.label" = "gr"
 "markup.quote" = "ye"
+"markup.raw" = "bl"
 "diff.plus" = "gr"
 "diff.minus" = "re"
 "diff.delta" = "ye"
