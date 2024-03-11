@@ -1,9 +1,9 @@
 # Based on Flexoki: https://stephango.com/flexoki
 
 "ui.background" = { bg = "bg" }
-"ui.cursor" = { fg = "tx", bg = "bg-2" }
+"ui.cursor" = { fg = "tx", bg = "ui-2" }
 "ui.cursor.primary" = { fg = "bg", bg = "tx" }
-"ui.cursor.match" = { modifiers = ["bold"], bg = "bg-2" }
+"ui.cursor.match" = { modifiers = ["bold"] }
 "ui.linenr" = "tx-3"
 "ui.linenr.selected" = "tx"
 "ui.selection" = { bg = "ui" }
