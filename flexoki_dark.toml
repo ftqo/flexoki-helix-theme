@@ -1,4 +1,4 @@
-inherits = "flexoki"
+inherits = "flexoki_light"
 
 [palette]
 tx = "#CECDC3"
